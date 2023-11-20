@@ -159,5 +159,5 @@ addEventListener('keydown', ({code}) => {
     }
 })
 
-start_btn.addEventListener('click', () => init(10));
+start_btn.addEventListener('click', () => init(20));
 // addEventListener('DOMContentLoaded', () => init(10))
